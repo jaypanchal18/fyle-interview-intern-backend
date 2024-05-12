@@ -1,5 +1,11 @@
 # Fyle Backend Challenge
 
+## Deploying
+[Click Here](./DOCKER_README.md)
+
+## Makefile
+[Click Here](./Makefile)
+
 ## Who is this for?
 
 This challenge is meant for candidates who wish to intern at Fyle and work with our engineering team. You should be able to commit to at least 6 months of dedicated time for internship.
@@ -12,8 +18,6 @@ We are an extremely transparent organization. Check out our [careers page](https
 
 
 ## Challenge outline
-
-**You are allowed to use any online/AI tool such as ChatGPT, Gemini, etc. to complete the challenge. However, we expect you to fully understand the code and logic involved.**
 
 This challenge involves writing a backend service for a classroom. The challenge is described in detail [here](./Application.md)
 
